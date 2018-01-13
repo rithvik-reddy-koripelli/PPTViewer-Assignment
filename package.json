@@ -1,0 +1,24 @@
+{
+  "name": "smartppt",
+  "version": "1.0.0",
+  "description": "A demo application to showcase real-time web application use case using socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "websockets",
+    "socket.io",
+    "smart",
+    "ppt",
+    "viewer"
+  ],
+  "author": "Divesh Pal",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.3",
+    "express": "^4.16.2",
+    "jquery": "^3.2.1",
+    "socket.io": "^2.0.4"
+  }
+}
